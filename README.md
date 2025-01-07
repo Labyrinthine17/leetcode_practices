@@ -13,4 +13,5 @@
 | 125 | [Valid Palindrome](/0125_Valid%20Palindrome/sol.py) | `Two Pointers`,`String` | Easy | 11 ms | 18.24 MB |
 | 209 | [Minimum Size Subarray Sum](/0209_Minimum%20Size%20Subarray%20Sum/sol.py) | `Array`,`Binary Search`,`Sliding Window`,`Prefix Sum` | Medium | 16 ms | 28.2 MB |
 | 198 | [House Robber](/0198_House%20Robber/sol.py) | `Array`,`Dynamic Programming` | Medium | 0 ms | 17.9 MB |
+| 228 | [Summary Ranges](/0228_Summary%20Ranges/sol.py) | `Array` | Easy | 0 ms | 17.7 MB |
 | 392 | [Is Subsequence](/0392_Is%20Subsequence/sol.py) | `Two Pointers`,`String`,`Dynamic Programming` | Easy | 0 ms | 17.8 MB |
